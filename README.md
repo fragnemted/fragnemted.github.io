@@ -1,5 +1,5 @@
 # fragnemted.github.io
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta http-equiv='cache-control' content='no-cache'> 
